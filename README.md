@@ -7,7 +7,7 @@ Rust fascinates me with its focus on performance, memory safety, and modern syst
 
 ## 🔧 Technologies and Tools I Use  
 - **Back-End**: Java (Spring Boot), Rust  
-- **Database**: PostgreSQL, Oracle Database  
+- **Database**: PostgreSQL, Oracle Database, Redis  
 - **DevOps**: Kubernetes, Docker, Minikube  
 - **Frontend**: [Planned: Flutter for Web and Mobile Apps]  
 - **Event Streaming**: Kafka  
